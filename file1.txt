@@ -1,1 +1,2 @@
 this is file1 reated by main branch
+this file is modified by b2 by user2
